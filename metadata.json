@@ -1,0 +1,5 @@
+{
+  "name": "AI Mockup Generator",
+  "description": "A powerful tool for web and mobile developers to create beautiful mockups of their applications. Upload a screenshot, choose a device frame, customize the background and text, and get AI-powered title suggestions to make your presentation pop.",
+  "requestFramePermissions": []
+}
